@@ -45,6 +45,8 @@ class Args {
   int bucket;
   int minn;
   int maxn;
+  bool hashOnly;
+  int hashCount;
   int thread;
   double t;
   std::string label;
